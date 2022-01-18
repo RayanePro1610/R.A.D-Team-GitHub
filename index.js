@@ -5,4 +5,4 @@ Client.on("ready", () => {
     console.log("bot opérationnel");
 });
 
-Client.login("ODUyMjc1MTQ1NTE5Mzk4OTky.YMEdFQ.IhnjEbVv3zLO7VCqgSzbj2sgSMw");
+Client.login("ODUyMjc1MTQ1NTE5Mzk4OTky.YMEdFQ.QvGIcGwYKXZwrFyYanPo2vUoypM");
